@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://fequidadecuador.org/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://fequidadecuador.org/noticias/</loc>
+		<loc>/noticias/</loc>
 		<lastmod>2023-05-18T08:02:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://fequidadecuador.org/hello-world/</loc>
+		<loc>/hello-world/</loc>
 		<lastmod>2023-05-18T05:57:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://fequidadecuador.org/campana-pasa-la-voz/</loc>
+		<loc>/campana-pasa-la-voz/</loc>
 		<lastmod>2023-05-18T07:15:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://fequidadecuador.org/orgullo-y-memoria-lgbtiq-en-ecuador/</loc>
+		<loc>/orgullo-y-memoria-lgbtiq-en-ecuador/</loc>
 		<lastmod>2023-05-18T07:22:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://fequidadecuador.org/resumen-de-actividades-de-la-fundacion-equidad-2022/</loc>
+		<loc>/resumen-de-actividades-de-la-fundacion-equidad-2022/</loc>
 		<lastmod>2023-05-18T07:31:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://fequidadecuador.org/informe-lamis-ecuador-2018/</loc>
+		<loc>/informe-lamis-ecuador-2018/</loc>
 		<lastmod>2023-05-18T08:02:10+00:00</lastmod>
 	</url>
 </urlset>

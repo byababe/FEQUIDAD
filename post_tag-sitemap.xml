@@ -1,43 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://fequidadecuador.org/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://fequidadecuador.org/tag/2022/</loc>
+		<loc>/tag/2022/</loc>
 		<lastmod>2023-05-18T07:31:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://fequidadecuador.org/tag/acnur/</loc>
+		<loc>/tag/acnur/</loc>
 		<lastmod>2023-05-18T07:15:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://fequidadecuador.org/tag/alianza/</loc>
+		<loc>/tag/alianza/</loc>
 		<lastmod>2023-05-18T07:15:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://fequidadecuador.org/tag/bienestar/</loc>
+		<loc>/tag/bienestar/</loc>
 		<lastmod>2023-05-18T08:02:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://fequidadecuador.org/tag/campanas/</loc>
+		<loc>/tag/campanas/</loc>
 		<lastmod>2023-05-18T07:15:25+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://fequidadecuador.org/tag/historia-queer/</loc>
+		<loc>/tag/historia-queer/</loc>
 		<lastmod>2023-05-18T07:22:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://fequidadecuador.org/tag/lamis/</loc>
+		<loc>/tag/lamis/</loc>
 		<lastmod>2023-05-18T08:02:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://fequidadecuador.org/tag/lgbti/</loc>
+		<loc>/tag/lgbti/</loc>
 		<lastmod>2023-05-18T08:02:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://fequidadecuador.org/tag/orgullo/</loc>
+		<loc>/tag/orgullo/</loc>
 		<lastmod>2023-05-18T07:22:48+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://fequidadecuador.org/tag/pride/</loc>
+		<loc>/tag/pride/</loc>
 		<lastmod>2023-05-18T07:22:48+00:00</lastmod>
 	</url>
 </urlset>

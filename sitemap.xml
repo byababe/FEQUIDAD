@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://fequidadecuador.org/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>http://fequidadecuador.org/post-sitemap.xml</loc>
+		<loc>/post-sitemap.xml</loc>
 		<lastmod>2023-05-18T08:02:10+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://fequidadecuador.org/page-sitemap.xml</loc>
+		<loc>/page-sitemap.xml</loc>
 		<lastmod>2023-05-18T08:21:07+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://fequidadecuador.org/elementor-hf-sitemap.xml</loc>
+		<loc>/elementor-hf-sitemap.xml</loc>
 		<lastmod>2023-05-18T02:05:33+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://fequidadecuador.org/category-sitemap.xml</loc>
+		<loc>/category-sitemap.xml</loc>
 		<lastmod>2023-05-18T08:02:10+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://fequidadecuador.org/post_tag-sitemap.xml</loc>
+		<loc>/post_tag-sitemap.xml</loc>
 		<lastmod>2023-05-18T08:02:10+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://fequidadecuador.org/author-sitemap.xml</loc>
+		<loc>/author-sitemap.xml</loc>
 		<lastmod>2023-05-17T15:46:25+00:00</lastmod>
 	</sitemap>
 </sitemapindex>

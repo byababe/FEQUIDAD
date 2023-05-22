@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Campaña Pasa la Voz	</title>
-	<atom:link href="http://fequidadecuador.org/campana-pasa-la-voz/feed/" rel="self" type="application/rss+xml" />
-	<link>http://fequidadecuador.org/campana-pasa-la-voz/</link>
+	<atom:link href="/campana-pasa-la-voz/feed/" rel="self" type="application/rss+xml" />
+	<link>/campana-pasa-la-voz/</link>
 	<description></description>
 	<lastBuildDate>Thu, 18 May 2023 07:15:25 +0000</lastBuildDate>
 	<sy:updatePeriod>

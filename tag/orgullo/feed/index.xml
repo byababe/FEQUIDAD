@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Orgullo Archives - FEDERACION ECUATORIANA EQUIDAD</title>
-	<atom:link href="http://fequidadecuador.org/tag/orgullo/feed/" rel="self" type="application/rss+xml" />
-	<link>http://fequidadecuador.org/tag/orgullo/</link>
+	<atom:link href="/tag/orgullo/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/orgullo/</link>
 	<description></description>
 	<lastBuildDate>Thu, 18 May 2023 07:22:48 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,16 +24,16 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
-	<url>http://fequidadecuador.org/wp-content/uploads/2023/05/Artboard-6-e1684374695363-150x150.png</url>
+	<url>/wp-content/uploads/2023/05/Artboard-6-e1684374695363-150x150.png</url>
 	<title>Orgullo Archives - FEDERACION ECUATORIANA EQUIDAD</title>
-	<link>http://fequidadecuador.org/tag/orgullo/</link>
+	<link>/tag/orgullo/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Orgullo y Memoria LGBTIQ+ en Ecuador</title>
-		<link>http://fequidadecuador.org/orgullo-y-memoria-lgbtiq-en-ecuador/</link>
-					<comments>http://fequidadecuador.org/orgullo-y-memoria-lgbtiq-en-ecuador/#respond</comments>
+		<link>/orgullo-y-memoria-lgbtiq-en-ecuador/</link>
+					<comments>/orgullo-y-memoria-lgbtiq-en-ecuador/#respond</comments>
 		
 		<dc:creator><![CDATA[fequidad]]></dc:creator>
 		<pubDate>Thu, 18 May 2023 07:22:48 +0000</pubDate>
@@ -46,7 +46,7 @@
 		<guid isPermaLink="false">https://encouraging-cloth.localsite.io/?p=202</guid>
 
 					<description><![CDATA[<p>El Día del Orgullo LGBTI+ se conmemora a nivel internacional el 28 de junio de cada año, a raíz de losDisturbios de Stonewall, los cuales tuvieron lugar en la ciudad de Nueva York entre el 28 de junio y 6de julio de 1969. Por esta razón, Ecuador también adoptó esta fecha para recordar los distintos [&#8230;]</p>
-<p>The post <a rel="nofollow" href="http://fequidadecuador.org/orgullo-y-memoria-lgbtiq-en-ecuador/">Orgullo y Memoria LGBTIQ+ en Ecuador</a> appeared first on <a rel="nofollow" href="http://fequidadecuador.org/">FEDERACION ECUATORIANA EQUIDAD</a>.</p>
+<p>The post <a rel="nofollow" href="/orgullo-y-memoria-lgbtiq-en-ecuador/">Orgullo y Memoria LGBTIQ+ en Ecuador</a> appeared first on <a rel="nofollow" href="/">FEDERACION ECUATORIANA EQUIDAD</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<!-- content style : start --><style type="text/css" data-name="kubio-style"></style><!-- content style : end -->
 <p>El Día del Orgullo LGBTI+ se conmemora a nivel internacional el 28 de junio de cada año, a raíz de los<br>Disturbios de Stonewall, los cuales tuvieron lugar en la ciudad de Nueva York entre el 28 de junio y 6<br>de julio de 1969. Por esta razón, Ecuador también adoptó esta fecha para recordar los distintos hitos<br>de la diversidad sexual y de género, al igual que la lucha para que los derechos de la Comunidad sean<br>reconocidos.</p>
@@ -94,10 +94,10 @@
 
 
 <p><br>Pimentel, C. (2023, 19 enero). Asesinatos de integrantes de la comunidad LGBTI aumentaron en un<br>86 % durante el 2022; provincias de la Costa concentran la mayoría de casos. Seguridad |<br>Noticias | El Universo. https://www.eluniverso.com/noticias/seguridad/asesinatos-deintegrantes-de-la-comunidad-aumentaron-en-un-86-durante-el-2022-provincias-de-la-costaconcentran-la-mayoria-de-casos-nota/</p>
-<p>The post <a rel="nofollow" href="http://fequidadecuador.org/orgullo-y-memoria-lgbtiq-en-ecuador/">Orgullo y Memoria LGBTIQ+ en Ecuador</a> appeared first on <a rel="nofollow" href="http://fequidadecuador.org/">FEDERACION ECUATORIANA EQUIDAD</a>.</p>
+<p>The post <a rel="nofollow" href="/orgullo-y-memoria-lgbtiq-en-ecuador/">Orgullo y Memoria LGBTIQ+ en Ecuador</a> appeared first on <a rel="nofollow" href="/">FEDERACION ECUATORIANA EQUIDAD</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://fequidadecuador.org/orgullo-y-memoria-lgbtiq-en-ecuador/feed/</wfw:commentRss>
+					<wfw:commentRss>/orgullo-y-memoria-lgbtiq-en-ecuador/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
