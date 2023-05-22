@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://https://byababe.github.io/FEQUIDAD/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://byababe.github.io/FEQUIDAD/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://https://byababe.github.io/FEQUIDAD/post-sitemap.xml</loc>
+		<loc>https://byababe.github.io/FEQUIDAD/post-sitemap.xml</loc>
 		<lastmod>2023-05-18T08:02:10+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://https://byababe.github.io/FEQUIDAD/page-sitemap.xml</loc>
+		<loc>https://byababe.github.io/FEQUIDAD/page-sitemap.xml</loc>
 		<lastmod>2023-05-18T08:21:07+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://https://byababe.github.io/FEQUIDAD/elementor-hf-sitemap.xml</loc>
+		<loc>https://byababe.github.io/FEQUIDAD/elementor-hf-sitemap.xml</loc>
 		<lastmod>2023-05-18T02:05:33+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://https://byababe.github.io/FEQUIDAD/category-sitemap.xml</loc>
+		<loc>https://byababe.github.io/FEQUIDAD/category-sitemap.xml</loc>
 		<lastmod>2023-05-18T08:02:10+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://https://byababe.github.io/FEQUIDAD/post_tag-sitemap.xml</loc>
+		<loc>https://byababe.github.io/FEQUIDAD/post_tag-sitemap.xml</loc>
 		<lastmod>2023-05-18T08:02:10+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://https://byababe.github.io/FEQUIDAD/author-sitemap.xml</loc>
+		<loc>https://byababe.github.io/FEQUIDAD/author-sitemap.xml</loc>
 		<lastmod>2023-05-17T15:46:25+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
